@@ -9,7 +9,7 @@ export default function Footer() {
         {/* Brand Info */}
         <div>
           <h2 className="text-2xl font-bold text-yellow-500">ShopEase</h2>
-          <p className="text-gray-400 mt-2">Your one-stop online shopping destination.</p>
+          <p className="text-gray-400 mt-2">Your one-step online shopping destination.</p>
         </div>
 
         {/* Quick Links */}
