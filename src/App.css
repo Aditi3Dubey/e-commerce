@@ -1,0 +1,11 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    --mainBgColor :#CBE4DE;
+    --BgColor : white;
+    --btnBgColor :#0E8388;
+
+}

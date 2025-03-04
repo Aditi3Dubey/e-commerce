@@ -1,0 +1,9 @@
+
+.AddToCart{
+    padding: .5rem ;
+    background-color: black;
+    color:wheat;
+    width: 12rem;
+    border: 2px solid red;
+    border-radius: 2rem;
+}
